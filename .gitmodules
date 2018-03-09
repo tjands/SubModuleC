@@ -1,0 +1,3 @@
+[submodule "SubModuleC.1"]
+	path = SubModuleC.1
+	url = https://github.com/tjands/SubModuleC.1
